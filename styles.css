@@ -1,0 +1,18 @@
+h2 {
+  color: limegreen;
+  background-color: aquamarine;
+  font-size: 30px;
+}
+img {
+  margin: auto;
+  display: block;
+  width: 300px;
+}
+#h3-box {
+  width: 1000px;
+  height: 700px;
+  color: beige;
+  margin: auto;
+  text-align: center;
+  background-image: url("https://cdn.i-scmp.com/sites/default/files/styles/700x400/public/d8/images/canvas/2022/01/26/795b5720-0a91-45cd-8f0c-ccfe494b1836_9d1e5b38.jpg?itok=Zmq8rJYC&v=1643159618");
+}
